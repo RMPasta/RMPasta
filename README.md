@@ -1,3 +1,2 @@
-## Hello! 👋
-### 🌱 I’m currently learning full stack web development at App Academy.
-### ✔ My older repos are from learning front end development through Codecademy and some personal projects. 
+## Hello, I'm Ryan Malmos! 👋
+### Software Engineer | Javascript | React | Node.js | Express | SQL | Python | Flask
