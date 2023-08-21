@@ -1,5 +1,5 @@
-## Hello, I'm Ryan Malmos! 👋
+## I'm Ryan Malmos, and I like to code 👋
 
 ## [Portfolio](https://rmpasta.github.io/RMPortfolio/)
 
-### Javascript | React | Node.js | Express | SQL | Python | Flask
+### Javascript | Python | React | Node.js | Express | SQL | Flask
